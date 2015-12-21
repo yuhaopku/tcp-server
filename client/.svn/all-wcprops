@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/app/search/lbs-api/!svn/ver/20889/trunk/union/server/client
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/lbs-api/!svn/ver/20889/trunk/union/server/client/client.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/app/search/lbs-api/!svn/ver/20888/trunk/union/server/client/Makefile
+END
+client
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/app/search/lbs-api/!svn/ver/20889/trunk/union/server/client/client
+END
